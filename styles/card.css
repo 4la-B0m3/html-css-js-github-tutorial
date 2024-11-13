@@ -1,0 +1,110 @@
+.container{
+    border: 1px solid black;
+    width: 300px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: black;
+    border-radius: 20px;
+    height: 450px;
+    border-left: inset;
+    border-left-width: 3px;
+    border-left-color: gold;
+    border-right: inset;
+    border-right-width: 3px;
+    border-right-color: gold;
+
+
+
+
+}
+
+.player-details-container{
+    
+
+}
+
+.team-photo{
+    width: 40px;
+    margin-left: 45%;
+    margin-top: 3%;
+    border-radius: 20px;
+    
+
+}
+
+.player-image{
+    width: 160px;
+    margin-left: 25%;
+    margin-top: 3%;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 5%;
+}
+
+.national{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+    margin-bottom: 5%;
+
+
+}
+.country-logo{
+    width: 4%;
+}
+
+.p-club{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.p-postion{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.postion-logo{
+    width: 27px;
+    border-radius: 10%;
+}
+
+.p-league{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+
+.p-general-rating{
+    color: goldenrod;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: smaller;
+    display: inline;
+    margin-left: 10%;
+
+}
+.league-logo{
+width: 10%;
+border-radius: 60%;
+margin: auto;
+margin-left: 45%;
+margin-top:auto;
+
+}
